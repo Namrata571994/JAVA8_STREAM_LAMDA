@@ -1,11 +1,11 @@
 # JAVA8_STREAM_LAMDA_Misslanious_PROGRAMMES
 
-**Person,StudentPojo. - Pojo classes
-Sort Hash Map/Treemap by Values/Keys with custom objects
-Method Reference
-StreamApi
-filter
-foreachloop
+**Person,StudentPojo. - Pojo classes ,
+Sort Hash Map/Treemap by Values/Keys with custom objects ,
+Method Reference ,
+StreamApi ,
+filter ,
+foreachloop ,
 Collection java8 methods 
 **
 
